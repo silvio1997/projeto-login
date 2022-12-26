@@ -40,6 +40,8 @@ section{
     height: 200px;
     
 }
+
+
 #formulario{
     padding: 8px;
 }
@@ -69,7 +71,8 @@ input{
     color: white;
     cursor: pointer;
     padding: 5px;
-    margin-right: 5px;
+    margin-right: 10px;
+    width: 100px;
 }
 
 #limpar{
