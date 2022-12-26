@@ -56,6 +56,13 @@ input{
     padding: 1.5px;
 }
 
+#ilogin{
+    height: 25px;
+}
+#isenha{
+    height: 25px;
+}
+
 #entrar{
     background-color: rgb(6, 6, 156);
     border-radius: 5px;
