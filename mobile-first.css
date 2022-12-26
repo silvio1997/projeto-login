@@ -31,6 +31,8 @@ section{
     border-radius: 20px;
     overflow: hidden;
     box-shadow: 2px 1px 10px 7px rgba(0, 0, 0, 0.24);
+
+    transition: width .3s, height .3s;
 }
 #imagem{
     background: url(arranha-ceu.jpg);
@@ -38,12 +40,14 @@ section{
     background-size: cover;
     max-width: 677px;
     height: 200px;
+    display: block;
     
 }
 
 
 #formulario{
     padding: 8px;
+    display: block;
 }
 #formulario h1{
     text-align: center;
